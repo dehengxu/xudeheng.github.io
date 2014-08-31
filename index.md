@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 真相就隐藏在表象的背后
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
