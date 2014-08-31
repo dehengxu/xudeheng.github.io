@@ -10,12 +10,12 @@ highlighter: pygments
 #
 title : 柳暗花明
 tagline: Site Tagline
-author : Headwindx
+author : 
   name : DehengXu
   email : dehengxu@outlook.com
   github : xudeheng
-  twitter : username
-  feedburner : feedname
+  twitter : dehengxu
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
